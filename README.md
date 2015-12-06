@@ -1,3 +1,3 @@
-# BachelorThesis - The Secretary Problem (Das Sekretärsproblem)
+# BachelorThesis - The Secretary Problem 
 
 
